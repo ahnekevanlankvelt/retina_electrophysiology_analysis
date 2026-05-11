@@ -1,0 +1,9 @@
+file,drug,stimulus_type,center_sf,surround_sf,sweeps,clamp_mV,notes
+2026_05_07_0025.abf,control,center_surround,1,1,0;1;2,-70,center contrast 50 surround contrast 255
+2026_05_07_0026.abf,control,center_surround,1,4,0;1;2,-70,center contrast 50 surround contrast 255
+2026_05_07_0027.abf,control,center_surround,1,6,0;1;2,-70,center contrast 50 surround contrast 255
+2026_05_07_0028.abf,control,center_only,1,100,0;1;2,-70,center only
+2026_05_07_0030.abf,TTX,center_surround,1,4,0;1;2,-70,center contrast 50 surround contrast 255
+2026_05_07_0032.abf,TTX,center_surround,1,1,0;1;2,-70,center contrast 50 surround contrast 255
+2026_05_07_0033.abf,TTX,center_surround,1,6,0;1;2,-70,center contrast 50 surround contrast 255
+2026_05_07_0034.abf,TTX,center_surround,1,2,0;1;2,-70,center contrast 50 surround contrast 255

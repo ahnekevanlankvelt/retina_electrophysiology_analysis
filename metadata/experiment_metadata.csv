@@ -1,0 +1,18 @@
+file,drug,stimulus_type,center_sf,surround_sf,sweeps,clamp_mV,notes
+2026_05_08_0000.abf,control,spot,,,0,-70,simple spot diameter 200um contrast 4090
+2026_05_08_0010.abf,control,center_surround,1.0,1.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0011.abf,control,center_surround,1.0,32.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0012.abf,control,center_surround,1.0,2.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0013.abf,control,center_only,1.0,100.0,0;1;2,-70,center only
+2026_05_08_0014.abf,control,center_surround,1.0,4.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0015.abf,control,center_surround,1.0,8.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0016.abf,control,center_surround,1.0,16.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0017.abf,control,center_surround,1.0,0.5,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0023.abf,TTX,center_only,1.0,100.0,0;1;2,-70,center only
+2026_05_08_0024.abf,TTX,center_surround,1.0,16.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0025.abf,TTX,center_surround,1.0,1.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0026.abf,TTX,center_surround,1.0,4.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0028.abf,TTX,center_surround,1.0,0.5,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0029.abf,TTX,center_surround,1.0,32.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0030.abf,TTX,center_surround,1.0,2.0,0;1;2,-70,center contrast 20 surround contrast 50
+2026_05_08_0031.abf,TTX,center_surround,1.0,8.0,0;1;2,-70,center contrast 20 surround contrast 50
