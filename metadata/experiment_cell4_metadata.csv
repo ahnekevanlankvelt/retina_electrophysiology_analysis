@@ -1,0 +1,7 @@
+file,drug,stimulus_type,center_sf,surround_sf,sweeps,clamp_mV,notes
+2026_05_12_0001.abf,control,spot,,,0,-70,"ID5, ON sustained"
+2026_05_12_0007.abf,control,center_only,1.0,100.0,0;1;2,-70,"ID11, center contrast 40 surround contrast 50"
+2026_05_12_0008.abf,control,center_surround,1.0,1.0,0;1;2,-70,"ID12, center contrast 40 surround contrast 50"
+2026_05_12_0009.abf,control,center_surround,1.0,16.0,0;1;2,-70,center contrast 40 surround contrast 50
+2026_05_12_0010.abf,control,center_surround,1.0,8.0,0;1;2,-70,center contrast 40 surround contrast 50
+2026_05_12_0011.abf,control,center_surround,1.0,2.0,0;1;2,-70,center contrast 40 surround contrast 50
